@@ -1,0 +1,35 @@
+.nav
+a{
+  color: white;
+  background-color: red;
+}
+
+#about_blue
+{
+background-color: #6495ED;
+border-style: solid;
+border-color: black;
+border-width: 2px;
+padding: 5px;
+margin-bottom: 10px;
+}
+
+#about_bluebulletpoints
+{
+color: blue;
+}
+
+#about_yellow
+{
+  background-color: #FFEBCD;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+#about_yellowbulletpoints
+{
+  color: orange;
+}
